@@ -1,3 +1,8 @@
 hello alll
+<<<<<<< Updated upstream
 s 4 
 s 5
+=======
+s 2
+s 3
+>>>>>>> Stashed changes
